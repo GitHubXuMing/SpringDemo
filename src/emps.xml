@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <emps>
-	<emp empno="1001">
+	<emp empno="1009">
 		<ename>zhao</ename>
 		<sal type="java.util.BigDecimal">2.3</sal>
 	</emp>
-		<emp empno="1002">
+		<emp empno="1010">
 		<ename>qian</ename>
 		<deptno type="java.lang.Integer">10</deptno>
 	</emp>	
